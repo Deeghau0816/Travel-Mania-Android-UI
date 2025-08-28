@@ -1,0 +1,60 @@
+<resources>
+    <!-- -->
+    <!-- App name to appear in Mobile -->
+    <string name="app_name">Travel-Mania</string>
+
+
+    <string name="sri_lanka_s_ultimate_wildlife_experience">Sri Lanka’s Ultimate Wildlife Experience</string>
+
+    <!-- Cart screen -->
+    <string name="back">Back</string>
+    <string name="cart">Cart</string>
+    <string name="your_cart">Your Cart</string>
+    <string name="Jetwing_Blue_Hotel_Negombo_description">Jetwing Blue Hotel, Negombo - Booking</string>
+    <string name="status_pending">Status: Pending</string>
+    <string name="Date_in_status">Dates: 28th Aug to 30th Aug</string>
+    <string name="Home_Nav">Home</string>
+    <string name="explore_Nav">Explore</string>
+    <string name="Cart_Nav">Cart</string>
+    <string name="profile_NAv">Profile</string>
+
+
+    <!--Home page-->
+
+    <string name="travel_mania_AppName">Travel-Mania</string>
+    <string name="Greeting">Hello DeegahuV,</string>
+    <string name="greeting_with_friendly">What’s on your mind Today.</string>
+    <string name="Header">Explore the,</string>
+    <string name="Header_orange_Color">Beauty of Sri Lanka!</string>
+    <string name="Lion_represent_SL">Lion</string>
+    <string name="best_destinations">Best Destinations For You !</string>
+    <string name="destination1">Esala Perahera</string>
+    <string name="destination1_Location">Kandy, Central Province</string>
+    <string name="destination2">Yala National Park</string>
+    <string name="destination2_location">Hambantota, Southern</string>
+    <string name="destination3">Ambuluwawa Tower</string>
+    <string name="destination3_location">Ambuluwawa, Kandy</string>
+    <string name="destination4">Galle Fort</string>
+    <string name="destination4_location">Galle Fort, Southern</string>
+    <string name="Hotels">Best Luxurious Hotels !</string>
+    <string name="Hotel1">Shangri-La Hotel, Colombo</string>
+    <string name="Hotel2">Radisson Blu Hotel, Galle</string>
+    <string name="Hotel3">Jetwing Blue, Negombo</string>
+    <string name="nav_home">Home</string>
+    <string name="nav_explore">Explore</string>
+    <string name="nav_cart">Cart</string>
+    <string name="nav_profile">Profile</string>
+    <string name="AppName">TRAVEL MANIA</string>
+
+    <!-- Esala2 page-->
+    <string name="Second_randoli_procession">2nd Randoli Procession</string>
+    <string name="_3rd_randoli_procession">3rd Randoli Procession</string>
+    <string name="date_perahera3">6th of August\nat 7.00 pm</string>
+    <string name="_4th_randoli_procession">4th Randoli Procession</string>
+    <string name="date_perahera4">7th of August\nat 7.00 pm</string>
+    <string name="grand_randoli_perahera">Grand Randoli Perahera</string>
+    <string name="date_perahera5">8th of August\nat 7.00 pm</string>
+    <string name="Button_content">Book You Seat Now !</string>
+
+
+</resources>
