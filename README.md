@@ -19,33 +19,13 @@ This project highlights clean UI design, Material 3 components, and smooth navig
 ## 🧱 Tech Stack
 
 - **Language:** Kotlin  
-- **IDE:** Android Studio (Jellyfish or newer)  
-- **UI Framework:** Material 3  
+- **IDE:** Android Studio  
 - **Architecture:** Fragment-based (XML layouts)  
 - **Navigation:** BottomNavigationView + NavHostFragment  
 - **Min SDK:** 24  
 - **Target SDK:** 34  
 
 ---
-
-## 📂 Project Structure
-app/
-├─ java/com/example/travelmania/
-│ ├─ ui/
-│ │ ├─ home/ # Home screen (featured destinations)
-│ │ ├─ destinations/ # Destination list and details
-│ │ ├─ discover/ # Explore new travel ideas
-│ │ ├─ saved/ # Saved/bookmarked destinations
-│ │ └─ profile/ # User profile and settings
-│ ├─ components/ # Reusable UI components (cards, loaders, etc.)
-│ ├─ data/ # (Optional) Room DB or data models
-│ └─ util/ # Utility functions and helpers
-├─ res/
-│ ├─ layout/ # XML layouts for fragments and components
-│ ├─ values/ # colors.xml, strings.xml, themes.xml, styles.xml
-│ ├─ drawable/ # Icons, shapes, and vector assets
-│ └─ mipmap/ # App icons and launcher assets
-└─ AndroidManifest.xml
 
 ## 🎯 Purpose
 
